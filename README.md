@@ -15,7 +15,7 @@ URL: ...
 * [ ] Register an account with shipper role.
 * [ ] Add products into his ShippingCart
 * [ ] View the status of his ShippingCart
-* [ ] Search/Filter list of products by "From District", "To District"
+* [ ] **Search/Filter list of products by "From District", "To District"**
 * [ ] Update his ShippingCart
 * [ ] Give score for shopper
 
