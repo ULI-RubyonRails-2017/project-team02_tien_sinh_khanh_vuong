@@ -1,55 +1,49 @@
-# Name of your app
+# ShipperNow
 
-**Name of your app** description.
+**Description:** Connect shippers and Clients.
 
-Submitted by: **Your name**
+Submitted by: **Tien Tran**
 
-Time spent: **time** hours spent in total
+Time spent: **2** hours spent in total
 
-URL: 
+URL: ...
 
 ## User Stories
 
 ### Required:
+* As a Shipper
+* [ ] Register an account with shipper role.
+* [ ] Add products into his ShippingCart
+* [ ] View the status of his ShippingCart
+* [ ] Search/Filter list of products by "From District", "To District"
+* [ ] Update his ShippingCart
+* [ ] Give score for shopper
 
-* [ ] Feature 1.
-* [ ] Feature 2.
+
+* As a shopper
+* [ ] Register an account with shopper role.
+* [ ] Add products into his ProductCart
+* [ ] View his ProductCart
+* [ ] Search/Filter list of his products by "Diliverred", "Undeliverred", "Deliverring"
+* [ ] Update his ProductCart
+* [ ] Give score for shippers
+
+* As an admin
+* [ ] Manage users
+* [ ] Manage Products, shipping
+* [ ] Search/Filter Products, shipping by status, online shippers
+* [ ] Assign Products to available shippers
+* [ ] Give award for shipper monthly/yearly
 
 ### Optional:
 
-* [ ] Feature 1.
-* [ ] Feature 2.
-
-The following **additional** features are implemented:
-
-The following **known issues**:
-
-* List bugs or things that don't work yet
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-![Video Walkthrough](demo.gif)
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+* [ ] As an admin, I want to have statistic feature
+* [ ] Build wep api to connect mobile apps
+* [ ] Embedded google map to get the current location of the shipper and show "product maps" on the map
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Applied for HCM city only.
 
-## License
 
-    Copyright [yyyy] [name]
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
